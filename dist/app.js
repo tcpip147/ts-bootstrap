@@ -1,0 +1,1 @@
+new function(l){console.log("Hello World!")}("Hello World!");
